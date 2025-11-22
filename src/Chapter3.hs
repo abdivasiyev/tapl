@@ -28,8 +28,8 @@ terms n =
        , t3 <- terms k
        ]
 
-ex3_2_3 :: Int
-ex3_2_3 = length . terms $ 3
+ex3_2_4 :: Int
+ex3_2_4 = length . terms $ 3
 
--- >>> ex3_2_3
+-- >>> ex3_2_4
 -- 48
