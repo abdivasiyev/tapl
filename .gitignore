@@ -1,2 +1,4 @@
 .direnv
 dist-newstyle
+.DS_STORE
+result/

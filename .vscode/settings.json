@@ -1,0 +1,5 @@
+{
+    "haskell.cabalFormattingProvider": "none",
+    "haskell.formattingProvider": "fourmolu",
+    "editor.defaultFormatter": "haskell.haskell"
+}

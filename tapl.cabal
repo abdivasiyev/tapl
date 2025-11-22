@@ -16,6 +16,7 @@ common warnings
 library
     import:           warnings
     exposed-modules:  Tapl
+                    , Chapter3
     -- other-modules:
     -- other-extensions:
     build-depends:    base ^>=4.21.0.0
